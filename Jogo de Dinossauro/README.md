@@ -1,3 +1,5 @@
+## [Visualizar](https://hcadeveloper.github.io/jogo-de-dinossauro/)
+
 # Jogo do Dinossauro - Dinosaur Game
 
 `Início do projeto: 13/03/2021`
